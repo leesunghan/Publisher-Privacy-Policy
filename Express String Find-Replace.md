@@ -1,8 +1,8 @@
-# Publisher Privacy Policy
+### Publisher Privacy Policy
 
-## This Add-In does not capture or store any user data.
+#### The "Express String Find / Replace" app does not capture or store user data.
 
-## The Autodesk App Store captures, and gives us access to, a download record containing the following personal information:
+#### The Autodesk App Store captures, and gives us access to, a download record containing the following personal information:
 - Language
 - Country
 - First Name
@@ -11,4 +11,4 @@
 - Company Name
 - Date &	Time of download
 
-## We do not store or use this data.
+#### We do not store or use this data.
