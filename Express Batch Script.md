@@ -1,6 +1,6 @@
 ### Publisher Privacy Policy
 
-#### The "Express Batch Script" app does not capture or store user data.
+#### The "Express BatchScript" app does not capture or store user data.
 
 #### The Autodesk App Store captures, and gives us access to, a download record containing the following personal information:
 - Language
